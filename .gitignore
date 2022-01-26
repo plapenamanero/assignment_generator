@@ -1,0 +1,14 @@
+# Ignore Mac DS_Store files
+.DS_Store
+
+
+# Checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+**/__pycache__/
+
+
+# Config files
+resources/credentials.json
+o365_token.txt
